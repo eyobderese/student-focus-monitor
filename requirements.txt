@@ -1,0 +1,17 @@
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+torch==2.2.0
+torchvision==0.17.0
+scikit-learn==1.4.2
+scikit-image==0.23.2
+scipy==1.13.0
+streamlit==1.33.0
+matplotlib==3.8.4
+pandas==2.2.2
+numpy==1.26.4
+reportlab==4.1.0
+pygame==2.5.2
+plotly==5.22.0
+Pillow==10.3.0
+tqdm==4.66.4
+joblib==1.4.0

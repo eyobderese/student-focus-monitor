@@ -1,0 +1,20 @@
+{
+  "ear_drowsy_threshold": 0.25,
+  "ear_closed_frames_threshold": 15,
+  "mar_yawn_threshold": 0.6,
+  "yawn_min_duration_frames": 10,
+  "head_yaw_distracted_threshold": 25,
+  "head_pitch_down_threshold": -20,
+  "head_pitch_up_threshold": 15,
+  "absence_timeout_seconds": 5,
+  "blink_rate_normal_min": 10,
+  "blink_rate_normal_max": 20,
+  "analysis_frame_skip": 3,
+  "alert_cooldown_seconds": 30,
+  "focus_score_weights": {
+    "ear": 0.30,
+    "head_pose": 0.30,
+    "attention_cnn": 0.30,
+    "blink_rate": 0.10
+  }
+}
